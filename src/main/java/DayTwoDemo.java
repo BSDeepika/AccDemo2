@@ -15,7 +15,7 @@ public class DayTwoDemo extends HttpServlet {
 
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-		resp.getWriter().print("Day Two Demo Version 1!!\n");
+		resp.getWriter().print("Day Two Demo Version 2222!!\n");
 	}
 
 	public static void main(String[] args) throws Exception {
